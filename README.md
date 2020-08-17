@@ -8,7 +8,7 @@
 
 This project was created during the React Immersion provided by Alura where we had to create an application based on Netflix, so I decided to create this website to organize some dev videos.
 
-[devflix-three.vercel.app](devflix-three.vercel.app) 
+[http://devflix-three.vercel.app](http://devflix-three.vercel.app) 
 
 ## Available Scripts
 
