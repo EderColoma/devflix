@@ -6,7 +6,7 @@
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-This project was created during the React Immersion provided by Alura where we had to create an application based on Netflix, so I decided to create this website to organize some dev videos.
+Website created to organize some dev videos.
 
 [http://devflix-three.vercel.app](http://devflix-three.vercel.app) 
 
