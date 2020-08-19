@@ -7,6 +7,7 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 Website created to organize some dev videos.
+It was created using the same code created during the Alura React Immersion.
 
 [http://devflix-three.vercel.app](http://devflix-three.vercel.app) 
 
