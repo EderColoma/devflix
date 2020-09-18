@@ -1,4 +1,4 @@
-## Toeiflix
+## Devflix
 
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -6,9 +6,10 @@
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-This project was created during the React Immersion provided by Alura where we had to create an application based on Netflix, so I decided to create this website to organize the content of the offical Toei's youtube channel, which it is really messy and it is hard to find the episodes you want. 
+Website created to organize some dev videos.
+It was created using the same code created during the Alura React Immersion.
 
-[https://toeiflix.vercel.app/](https://toeiflix.vercel.app) 
+[http://devflix-three.vercel.app](http://devflix-three.vercel.app) 
 
 ## Available Scripts
 
