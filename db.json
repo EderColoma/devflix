@@ -1,0 +1,311 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Back End",
+      "cor": "#18c421"
+    },
+    {
+      "id": 2,
+      "titulo": "Front End",
+      "cor": "#18c421"
+    },
+    {
+      "id": 3,
+      "titulo": "Clean Code",
+      "cor": "#18c421"
+    },
+    {
+      "id": 4,
+      "titulo": "Design Patterns",
+      "cor": "#18c421"
+    },
+    {
+      "id": 5,
+      "titulo": "Functional Programming",
+      "cor": "#18c421"
+    },
+    {
+      "id": 6,
+      "titulo": "Haskell",
+      "cor": "#18c421"
+    },
+    {
+      "id": 7,
+      "titulo": "Miscellaneous",
+      "cor": "#18c421"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 3,
+      "titulo": "Clean Code - Lesson 1",
+      "url": "https://www.youtube.com/watch?v=7EmboKQH8lM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 3,
+      "titulo": "Clean Code - Lesson 2",
+      "url": "https://www.youtube.com/watch?v=2a_ytyt9sf8"
+    },
+    {
+      "id": 3,
+      "categoriaId": 3,
+      "titulo": "Clean Code - Lesson 3",
+      "url": "https://www.youtube.com/watch?v=Qjywrq2gM8o"
+    },
+    {
+      "id": 4,
+      "categoriaId": 3,
+      "titulo": "Clean Code - Lesson 4",
+      "url": "https://www.youtube.com/watch?v=58jGpV2Cg50"
+    },
+    {
+      "id": 5,
+      "categoriaId": 3,
+      "titulo": "Clean Code - Lesson 5",
+      "url": "https://www.youtube.com/watch?v=sn0aFEMVTpA"
+    },
+    {
+      "id": 6,
+      "categoriaId": 3,
+      "titulo": "Clean Code - Lesson 6",
+      "url": "https://www.youtube.com/watch?v=l-gF0vDhJVI"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "The Do's and Don'ts of Error Handling",
+      "url": "https://www.youtube.com/watch?v=TTM_b7EJg5E"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "A Netflix Guide to Microservices",
+      "url": "https://www.youtube.com/watch?v=CZ3wIuvmHeM"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Microservices",
+      "url": "https://www.youtube.com/watch?v=wgdBVIX9ifA"
+    },
+    {
+      "id": 10,
+      "categoriaId": 1,
+      "titulo": "The Essence of C++",
+      "url": "https://www.youtube.com/watch?v=86xWVb4XIyE"
+    },
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "The Forgotten Art of Structured Programming",
+      "url": "https://www.youtube.com/watch?v=SFv8Wm2HdNM"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "10 modern layouts in 1 line of CSS",
+      "url": "https://www.youtube.com/watch?v=qm0IfG1GyZU"
+    },
+    {
+      "id": 13,
+      "categoriaId": 7,
+      "titulo": "Maths for Programmers Tutorial",
+      "url": "https://www.youtube.com/watch?v=2SpuBqvNjHI"
+    },
+    {
+      "id": 14,
+      "categoriaId": 7,
+      "titulo": "The Future of Programming",
+      "url": "https://www.youtube.com/watch?v=ecIWPzGEbFc"
+    },
+    {
+      "id": 15,
+      "categoriaId": 7,
+      "titulo": "Agile is Dead",
+      "url": "https://www.youtube.com/watch?v=a-BOSpxYJ9M"
+    },
+    {
+      "id": 16,
+      "categoriaId": 5,
+      "titulo": "Why Isn't Functional Programming the Norm?",
+      "url": "https://www.youtube.com/watch?v=QyJZzq0v7Z4"
+    },
+    {
+      "id": 17,
+      "categoriaId": 5,
+      "titulo": "Functional Programming in 40 Minutes",
+      "url": "https://www.youtube.com/watch?v=0if71HOyVjY"
+    },
+    {
+      "id": 18,
+      "categoriaId": 1,
+      "titulo": "Next-Generation Programming: Rust & Elm",
+      "url": "https://www.youtube.com/watch?v=ukVqQGbxM9A"
+    },
+    {
+      "id": 19,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #1 - Basics",
+      "url": "https://www.youtube.com/watch?v=Vgu82wiiZ90"
+    },
+    {
+      "id": 20,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #2 - Functions, Types, let & where",
+      "url": "https://www.youtube.com/watch?v=pitjnqRKyyI"
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #3 - Recursion, Guards, Patterns",
+      "url": "https://www.youtube.com/watch?v=y6xiaSkVlvs",
+      "categoriaId": 6,
+      "id": 21
+    },
+    {
+      "id": 22,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #4 - Lists and Tuples",
+      "url": "https://www.youtube.com/watch?v=AN-P1-IvsKQ"
+    },
+    {
+      "id": 23,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #5 - List Exercises",
+      "url": "https://www.youtube.com/watch?v=Cxkqrg8FCt8"
+    },
+    {
+      "id": 24,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #6 - Higher Order Functions & Anonymous Functions",
+      "url": "https://www.youtube.com/watch?v=ccExc6rrUN8"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #7 - Partial Function Application & Currying",
+      "url": "https://www.youtube.com/watch?v=m12c99qgHBU"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "Haskell for Imperative Programmers #8 - Function Composition",
+      "url": "https://www.youtube.com/watch?v=dR_aUQXw5fs"
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #9 - Folding (foldr, foldl)",
+      "url": "https://www.youtube.com/watch?v=0qvi_sTJbEw",
+      "categoriaId": 6,
+      "id": 27
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #10 - Datatypes",
+      "url": "https://www.youtube.com/watch?v=7sbxVALuuxA",
+      "categoriaId": 6,
+      "id": 28
+    },
+    {
+      "titulo": "Becoming a better developer by using the SOLID design principles",
+      "url": "https://www.youtube.com/watch?v=rtmFCcjEgEw",
+      "categoriaId": 7,
+      "id": 29
+    },
+    {
+      "titulo": "You Really Don't Need All that JavaScript, I Promise",
+      "url": "https://www.youtube.com/watch?v=rxlJRydqmk8",
+      "categoriaId": 2,
+      "id": 30
+    },
+    {
+      "titulo": "Next-generation web styling",
+      "url": "https://www.youtube.com/watch?v=-oyeaIirVC0",
+      "categoriaId": 2,
+      "id": 31
+    },
+    {
+      "titulo": "Adaptive Loading - Improving web performance on slow devices",
+      "url": "https://www.youtube.com/watch?v=puUPpVrIRkc",
+      "categoriaId": 2,
+      "id": 32
+    },
+    {
+      "titulo": "Anatomy of a Web Media Experience",
+      "url": "https://www.youtube.com/watch?v=lXm6jOQLe1Y",
+      "categoriaId": 2,
+      "id": 33
+    },
+    {
+      "titulo": "Strategy Pattern",
+      "url": "https://www.youtube.com/watch?v=v9ejT8FO-7I",
+      "categoriaId": 4,
+      "id": 34
+    },
+    {
+      "titulo": "Observer Pattern",
+      "url": "https://www.youtube.com/watch?v=_BpmfnqjgzQ",
+      "categoriaId": 4,
+      "id": 35
+    },
+    {
+      "titulo": "Decorator Pattern",
+      "url": "https://www.youtube.com/watch?v=GCraGHx6gso",
+      "categoriaId": 4,
+      "id": 36
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #11 - Folding Exercises",
+      "url": "https://www.youtube.com/watch?v=46dksIrx6jQ",
+      "categoriaId": 6,
+      "id": 37
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #12 - Records",
+      "url": "https://www.youtube.com/watch?v=CoNZRKqQi1o",
+      "categoriaId": 6,
+      "id": 38
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #13 - Typeclasses",
+      "url": "https://www.youtube.com/watch?v=1txgSlcpQmo",
+      "categoriaId": 6,
+      "id": 39
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #14 - Maybe",
+      "url": "https://www.youtube.com/watch?v=O0iohEXMCsU",
+      "categoriaId": 6,
+      "id": 40
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #15 - IO",
+      "url": "https://www.youtube.com/watch?v=fP0srOQVGB8",
+      "categoriaId": 6,
+      "id": 41
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #16 - Type inference",
+      "url": "https://www.youtube.com/watch?v=bv7aenMgSkg",
+      "categoriaId": 6,
+      "id": 42
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #17 - Monads",
+      "url": "https://www.youtube.com/watch?v=IBB7JpbClo8",
+      "categoriaId": 6,
+      "id": 43
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #18 - QuickCheck",
+      "url": "https://www.youtube.com/watch?v=pD7GmxBA_Qw",
+      "categoriaId": 6,
+      "id": 44
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #19 - Infinite Lists",
+      "url": "https://www.youtube.com/watch?v=NvLOz-W4PsA",
+      "categoriaId": 6,
+      "id": 45
+    }
+  ]
+}
