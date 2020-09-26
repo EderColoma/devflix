@@ -236,19 +236,19 @@
       "id": 33
     },
     {
-      "titulo": "Strategy Pattern",
+      "titulo": "Strategy",
       "url": "https://www.youtube.com/watch?v=v9ejT8FO-7I",
       "categoriaId": 4,
       "id": 34
     },
     {
-      "titulo": "Observer Pattern",
+      "titulo": "Observer",
       "url": "https://www.youtube.com/watch?v=_BpmfnqjgzQ",
       "categoriaId": 4,
       "id": 35
     },
     {
-      "titulo": "Decorator Pattern",
+      "titulo": "Decorator",
       "url": "https://www.youtube.com/watch?v=GCraGHx6gso",
       "categoriaId": 4,
       "id": 36
@@ -306,6 +306,210 @@
       "url": "https://www.youtube.com/watch?v=NvLOz-W4PsA",
       "categoriaId": 6,
       "id": 45
+    },
+    {
+      "titulo": "Factory Method",
+      "url": "https://www.youtube.com/watch?v=EcFVTgRHJLM",
+      "categoriaId": 4,
+      "id": 46
+    },
+    {
+      "titulo": "Abstract Factory",
+      "url": "https://www.youtube.com/watch?v=v-GiuMmsXj4",
+      "categoriaId": 4,
+      "id": 47
+    },
+    {
+      "titulo": "Singleton",
+      "url": "https://www.youtube.com/watch?v=hUE_j6q0LTQ",
+      "categoriaId": 4,
+      "id": 48
+    },
+    {
+      "titulo": "Command",
+      "url": "https://www.youtube.com/watch?v=9qA5kw8dcSU",
+      "categoriaId": 4,
+      "id": 49
+    },
+    {
+      "titulo": "Adapter",
+      "url": "https://www.youtube.com/watch?v=2PKQtcJjYvc",
+      "categoriaId": 4,
+      "id": 50
+    },
+    {
+      "titulo": "Facade",
+      "url": "https://www.youtube.com/watch?v=K4FkHVO5iac",
+      "categoriaId": 4,
+      "id": 51
+    },
+    {
+      "titulo": "Proxy",
+      "url": "https://www.youtube.com/watch?v=NwaabHqPHeM",
+      "categoriaId": 4,
+      "id": 52
+    },
+    {
+      "titulo": "Bridge",
+      "url": "https://www.youtube.com/watch?v=F1YQ7YRjttI",
+      "categoriaId": 4,
+      "id": 53
+    },
+    {
+      "titulo": "Comparison",
+      "url": "https://www.youtube.com/watch?v=lPsSL6_7NBg",
+      "categoriaId": 4,
+      "id": 54
+    },
+    {
+      "titulo": "Template Method",
+      "url": "https://www.youtube.com/watch?v=7ocpwK9uesw",
+      "categoriaId": 4,
+      "id": 55
+    },
+    {
+      "titulo": "Composite",
+      "url": "https://www.youtube.com/watch?v=EWDmWbJ4wRA",
+      "categoriaId": 4,
+      "id": 56
+    },
+    {
+      "titulo": "Iterator",
+      "url": "https://www.youtube.com/watch?v=uNTNEfwYXhI",
+      "categoriaId": 4,
+      "id": 57
+    },
+    {
+      "titulo": "State",
+      "url": "https://www.youtube.com/watch?v=N12L5D78MAA",
+      "categoriaId": 4,
+      "id": 58
+    },
+    {
+      "titulo": "Null Object",
+      "url": "https://www.youtube.com/watch?v=rQ7BzfRz7OY",
+      "categoriaId": 4,
+      "id": 59
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #20 - Advanced Exercises",
+      "url": "https://www.youtube.com/watch?v=WuGlElBjwVA",
+      "categoriaId": 6,
+      "id": 60
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #21 - data, type & newtype",
+      "url": "https://www.youtube.com/watch?v=oAiwUAgWKwk",
+      "categoriaId": 6,
+      "id": 61
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #22 - Either",
+      "url": "https://www.youtube.com/watch?v=IgdZX5wav1Q",
+      "categoriaId": 6,
+      "id": 62
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #23 - Modules",
+      "url": "https://www.youtube.com/watch?v=SGSrjUoi29U",
+      "categoriaId": 6,
+      "id": 63
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #24 - Environment",
+      "url": "https://www.youtube.com/watch?v=lmBA7tEyr7U",
+      "categoriaId": 6,
+      "id": 64
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #25 - Compiling Binaries",
+      "url": "https://www.youtube.com/watch?v=FFElm5IGpkc",
+      "categoriaId": 6,
+      "id": 65
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #26 - Strictness, Thunks & seq",
+      "url": "https://www.youtube.com/watch?v=j19amq73-qA",
+      "categoriaId": 6,
+      "id": 66
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #27 - Exceptions",
+      "url": "https://www.youtube.com/watch?v=kbFGvUXqUcw",
+      "categoriaId": 6,
+      "id": 67
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #28 - Concurrency & Threads",
+      "url": "https://www.youtube.com/watch?v=cuHD2qTXxL4",
+      "categoriaId": 6,
+      "id": 68
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #29 - Semaphores (QSem, QSemN)",
+      "url": "https://www.youtube.com/watch?v=x3GwVccWcqs",
+      "categoriaId": 6,
+      "id": 69
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #30 - Software Transactional Memory (STM)",
+      "url": "https://www.youtube.com/watch?v=2lll2VbX8Vc",
+      "categoriaId": 6,
+      "id": 70
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #31 - Weak Head Normal Form",
+      "url": "https://www.youtube.com/watch?v=QBQ9_9R7o8I",
+      "categoriaId": 6,
+      "id": 71
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #32 - DeepSeq",
+      "url": "https://www.youtube.com/watch?v=eAcNGbnuTYs",
+      "categoriaId": 6,
+      "id": 72
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #33 - Parallelism",
+      "url": "https://www.youtube.com/watch?v=R47959rD2yw",
+      "categoriaId": 6,
+      "id": 73
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #34 - Profiling",
+      "url": "https://www.youtube.com/watch?v=pwcEUdf4Qmk",
+      "categoriaId": 6,
+      "id": 74
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #35 - Semigroup & Monoid",
+      "url": "https://www.youtube.com/watch?v=bsp5pJlw6R0",
+      "categoriaId": 6,
+      "id": 75
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #36 - Category Theory (Functors, Applicatives, Monads)",
+      "url": "https://www.youtube.com/watch?v=Jsmt4uaL1O8",
+      "categoriaId": 6,
+      "id": 76
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #37 - Arrows",
+      "url": "https://www.youtube.com/watch?v=W_NARxJEU5I",
+      "categoriaId": 6,
+      "id": 77
+    },
+    {
+      "titulo": "Haskell for Imperative Programmers #38 - Monad Transformers",
+      "url": "https://www.youtube.com/watch?v=UPb83JiGiIY",
+      "categoriaId": 6,
+      "id": 78
+    },
+    {
+      "titulo": "Test Driven C++",
+      "url": "https://www.youtube.com/watch?v=N2gTxeIHMP0",
+      "categoriaId": 1,
+      "id": 79
     }
   ]
 }
